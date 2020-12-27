@@ -1,5 +1,5 @@
-//Shiv Subedi
-//This snippet of code shows how to find the max of two and three numbers
+#Shiv Subedi
+#This snippet of code shows how to find the max of two and three numbers
 
 def max_of_2(val1, val2):
     if val1 > val2:
