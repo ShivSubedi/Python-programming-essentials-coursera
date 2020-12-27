@@ -1,5 +1,5 @@
-//Shiv Subedi
-//This snippet of code shows how to scale to the actual x- and y- values
+#Shiv Subedi
+#This snippet of code shows how to scale to the actual x- and y- values
 
 def project_to_distance(point_x, point_y, distance):
     dist_to_origin = (point_x ** 2 + point_y ** 2) ** 0.5
