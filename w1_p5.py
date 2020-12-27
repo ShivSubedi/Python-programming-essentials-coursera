@@ -1,5 +1,5 @@
-//Shiv Subedi
-//This snippet of code shows how to return values from quadratic expression
+#Shiv Subedi
+#This snippet of code shows how to return values from quadratic expression
 
 def quad_fun(x):
     """
