@@ -1,5 +1,5 @@
-//Shiv Subedi
-//This snippet of code shows printing simple plain texts 
+#Shiv Subedi
+#This snippet of code shows printing simple plain texts 
 
 def do_stuff():
     """
